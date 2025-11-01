@@ -37,7 +37,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 text-cream animate-fadeIn">
-          Salon Escal Souad SPA
+          Golf Stinia Boutique hôtel & Spa
         </h1>
         <p className="text-xl md:text-2xl lg:text-3xl text-gold mb-4 animate-fadeIn" style={{ animationDelay: '0.2s' }}>
           Luxury Wellness & Beauty Sanctuary
