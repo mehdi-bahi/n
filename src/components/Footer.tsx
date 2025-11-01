@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold text-gold mb-4 font-playfair">Salon Escal Souad SPA</h3>
+            <h3 className="text-2xl font-bold text-gold mb-4 font-playfair">Golf Stinia Boutique hôtel & Spa</h3>
             <p className="text-muted-foreground">
               Your sanctuary for wellness and beauty in the heart of Meknes
             </p>
@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={16} className="mr-2 text-gold" />
-                info@SalonEscalSouadSPA.ma
+                info@GolfStiniaBoutiquehôtel&Spa.ma
               </li>
             </ul>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border pt-8 text-center text-muted-foreground">
-          <p>&copy; 2025 Salon Escal Souad SPA. All rights reserved.</p>
+          <p>&copy; 2025 Golf Stinia Boutique hôtel & Spa. All rights reserved.</p>
         </div>
       </div>
     </footer>
